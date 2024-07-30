@@ -1,1 +1,1 @@
-# Plant-Desiease-Daignosis
+# Plant-Disease-Diagnosis
